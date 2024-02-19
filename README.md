@@ -1,7 +1,8 @@
 # Crowdfunding_ETL
-Project 2 Resources: Class activities week 13 Tuesday and Thursday class activities were main contributors to my part in the challenge. Part one : Create category and subcategory data frames. Split the column 'categories & sub-categories' into two columns. Create cat ids and scat id's. Save a category dataframe and save as a csv - save a subcaegories dataframe and save as a csv. The csv files are saved in the Resources folder in Git Hub.
-
+The Crowdfunding ETL (Extract, Transform, Load) project is a part of our data processing pipeline that focuses on preparing and structuring crowdfunding campaign data for further analysis. This project is a collaborative effort, building upon class activities conducted in week 13 on both Tuesday and Thursday. The aim is to refine raw data into meaningful information, facilitating easy access and data-driven decision-making.
+We used IPYNB 
 CSV File 'Campain' reqiures the Goal column to be converted to a number without decimal places.
+Below are evidence of succesfull loading of data set into a SQL software:
 ![image-1](https://github.com/PriyanshuRanaG/Project-2/assets/150047281/e9a94b03-9302-4f93-8529-a4cfcb7534e7)
 screen shot of SQL Campaign Table
 ![image-2](https://github.com/PriyanshuRanaG/Project-2/assets/150047281/2e2a6109-a779-452d-adad-a124fcb37592)
