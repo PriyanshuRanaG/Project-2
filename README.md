@@ -1,7 +1,11 @@
 # Crowdfunding_ETL
 The Crowdfunding ETL (Extract, Transform, Load) project is a part of our data processing pipeline that focuses on preparing and structuring crowdfunding campaign data for further analysis. This project is a collaborative effort, building upon class activities conducted in week 13 on both Tuesday and Thursday. The aim is to refine raw data into meaningful information, facilitating easy access and data-driven decision-making.
-We used IPYNB 
-CSV File 'Campain' reqiures the Goal column to be converted to a number without decimal places.
+
+We used ETL_Mini_Project_Starter_Code for extracting and transforming. We later upladed the transformed data into SQl.
+
+Note: CSV File 'Campaign' reqiures the 'Goal' column to be converted to a number without decimal places.
+
+
 Below are evidence of succesfull loading of data set into a SQL software:
 ![image-1](https://github.com/PriyanshuRanaG/Project-2/assets/150047281/e9a94b03-9302-4f93-8529-a4cfcb7534e7)
 screen shot of SQL Campaign Table
